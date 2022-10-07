@@ -1,0 +1,64 @@
+.inicio{
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    background-color: rgb(237, 253, 204);
+    padding-right: 950px;
+    padding-bottom: 1400px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.sobre h1{
+    position: absolute;
+    top: 750px;
+    left: 510px;
+    background-color: rgba(210, 227, 177);
+    margin: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.loc{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.loc-texto{
+    position: absolute;
+    top: 27%;
+    left: 30%;
+    background-color: rgba(210, 227, 177);
+    border-radius: 20px;
+}
+
+#h2{
+    position: absolute;
+    top: 87%;
+    left: 30%;
+    margin-right: 30%;
+}
+
+.Contato{
+    position: absolute;
+    top: 98%;
+    left: 30%;   
+    background-color: rgba(210, 227, 177);
+    border-radius: 20px; 
+}
+
+.Telefone{
+    position: absolute;
+    top: 110%;
+    left: 30%;   
+    background-color: rgba(210, 227, 177);
+    border-radius: 20px; 
+}

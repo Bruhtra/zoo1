@@ -1,0 +1,79 @@
+#body{
+    width: auto;
+    height: 1600px;
+}
+
+#content {
+    -webkit-transform: scale(2.0);
+    -webkit-transform-origin: 0 0;
+    -moz-transform: scale(2.0);
+    -moz-transform-origin: 0 0;
+    -ms-transform: scale(2.0);
+    -ms-transform-origin: 0 0;
+    transform: scale(2.0);
+    transform-origin: 0 0;
+}
+
+body{
+    width: auto;
+    height: 3000px;
+}
+
+.topo{
+    position: fixed;
+
+}
+
+.fundo{
+    position: fixed;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: rgb(237, 253, 204);
+    padding-right: 100%;
+    padding-bottom: 6%;
+    -webkit-box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31); 
+    box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31);
+}
+.cabeçalho{
+    display: flex;
+}
+
+.cabeçalho img{
+    width: 200px;
+    margin-left: 30px;
+}
+
+.cabeçalho-itens{
+    display: flex;
+    justify-content: end;
+    position: fixed;
+    left: 73%;
+    top: 2%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.cabeçalho-itens h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: black;
+}
+
+.cabeçalho-itens button{
+    background-color: rgb(210, 227, 177);
+    margin-left: 40px;
+    border: 0px;
+    transition: background-color .5s ease;
+    border-radius: 15px;
+    padding-right: 1%;
+   
+}
+
+.cabeçalho-itens button:hover{
+    background-color: rgb(241, 213, 213);
+}
+
+

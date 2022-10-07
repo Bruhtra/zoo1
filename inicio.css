@@ -1,0 +1,119 @@
+.inicio{
+    position: absolute;
+    top: 700px;
+    left: 450px;
+    background-color: rgb(237, 253, 204);
+    padding-right: 950px;
+    padding-bottom: 2100px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.sobre h1{
+    position: absolute;
+    top: 750px;
+    left: 510px;
+    background-color: rgba(210, 227, 177);
+    margin: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.sobre h2{
+    position: absolute;
+    top: 790px;
+    left: 510px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sobre img{
+    position: absolute;
+    top: 1050px;
+    left: 510px;
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31); 
+    box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31);
+}
+
+#jaguara{
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 900px;
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31); 
+    box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31);}
+
+.sobre2 h2{
+    position: absolute;
+    top: 1450px;
+    left: 510px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sobre2 img{
+    position: absolute;
+    top: 1700px;
+    left: 570px;
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31); 
+    box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31);
+    width: 650px;
+}    
+
+.sobre3 h2{
+    position: absolute;
+    top: 2100px;
+    left: 510px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sobre3 img{
+    position: absolute;
+    top: 2250px;
+    left: 590px;
+    margin-right: 570px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31); 
+    box-shadow: 11px 13px 23px 9px rgba(0,0,0,0.31);
+    width: 620px;
+}    
